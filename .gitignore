@@ -1,0 +1,9 @@
+# audio licenses can be tricky
+Audio/*
+!Audio/.gitkeep
+
+# core game files are excluded
+Game.exe
+RGSS104E.dll
+x64-msvcrt-ruby310.dll
+zlib1.dll
